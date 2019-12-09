@@ -1,0 +1,12 @@
+f0 = '0.jpg';
+f1 = focusNum(1);
+f2 = focusNum(2);
+f3 = focusNum(3);
+f4 = focusNum(4);
+f5 = focusNum(5);
+figure(1),imshow(f0);
+figure(2),imshow(f1);
+figure(3),imshow(f2);
+figure(4),imshow(f3);
+figure(5),imshow(f4);
+figure(6),imshow(f5);
