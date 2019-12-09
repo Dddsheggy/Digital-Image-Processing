@@ -1,0 +1,1 @@
+s = moments('gate.jpg');
