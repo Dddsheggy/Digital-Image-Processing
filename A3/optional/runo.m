@@ -1,0 +1,1 @@
+s = optional_moments('gate.jpg');
