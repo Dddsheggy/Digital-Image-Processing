@@ -4,9 +4,9 @@
 
 *slic.m和Aslic.m分别为SLIC算法和ASLIC算法的函数
 
-*my_slic_result.m对比SLIC算法和ASLIC算法的结果，还对比了同种算法在k值不同时的用时,my_slic_result.pdf为其发布文件
+*my_slic_result.m对比SLIC算法和ASLIC算法的结果，还对比了同种算法在k值不同时的用时
 
-*processing_result.m显示一组参数下对一张图片做SLIC算法的三次中间结果,processing_result.pdf为其发布文件
+*processing_result.m显示一组参数下对一张图片做SLIC算法的三次中间结果
 
 *interatc.fig和interact.m为GUI文件
 
