@@ -1,2 +1,3 @@
 # Digital-Image-Processing
-all assignments
+
+All the assignments and the final project for my course
